@@ -1,0 +1,8 @@
+D:\STUDY\OpenGL\pbr_solution\pbr_solution\VS\x64\Debug\PBR.exe
+D:\STUDY\OpenGL\pbr_solution\pbr_solution\VS\x64\Debug\PBR.pdb
+C:\Users\ahmed\Desktop\pbr_solution\VS\x64\Debug\Assignment 5.exe
+C:\Users\ahmed\Desktop\pbr_solution\VS\x64\Debug\Assignment 5.pdb
+C:\Users\ahmed\Desktop\Assignment 5\pbr_solution\VS\x64\Debug\Assignment 5.exe
+C:\Users\ahmed\Desktop\Assignment 5\pbr_solution\VS\x64\Debug\Assignment 5.pdb
+C:\Users\ahmed\Desktop\Assignment 5\Assignment 5\VS\x64\Debug\Assignment 5.exe
+C:\Users\ahmed\Desktop\Assignment 5\Assignment 5\VS\x64\Debug\Assignment 5.pdb
